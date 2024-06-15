@@ -13,6 +13,6 @@ Tạo mã Token mới cho Kibana:
 bin/elasticsearch-create-enrollment-token.bat -s kibana
 
 eyJ2ZXIiOiI4LjEzLjMiLCJhZHIiOlsiMTcyLjI4LjE5Mi4xOjkyMDAiXSwiZmdyIjoiYWRhZWQ3MzRlM2I4NjZlMjcyMGI2MDZiMmZhNDFlMWRhOGI2MWY0OTI3MTkyMWExMzVkNzljYjBlNDJkM2MwMiIsImtleSI6InhVYXFGSkFCcDdUQWs4TlhkUmhNOjgtbER1b2ZaUld1d1Mtd0wzU3hzaEEifQ==
-
+![Untitled](https://github.com/hoangphan636/elastic_Search-Kibana-Cache/assets/57717259/9dea1915-6636-4f67-9d64-ddaf18741b04)
 
 curl 127.0.0.1:9200
