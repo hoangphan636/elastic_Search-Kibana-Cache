@@ -1,4 +1,3 @@
-![image](https://github.com/hoangphan636/elastic_Search-Kibana-Cache/assets/57717259/78ba05a5-ed60-4494-9642-e22a937fefea)# elastic_Search-Kibana-Cache
 elastic_Search&amp;Kibana&amp;Cache
 Password cho Elastic Search : 
 
@@ -17,5 +16,5 @@ eyJ2ZXIiOiI4LjEzLjMiLCJhZHIiOlsiMTcyLjI4LjE5Mi4xOjkyMDAiXSwiZmdyIjoiYWRhZWQ3MzRl
 
 curl 127.0.0.1:9200
 
-
 Nếu dùng Attribute [Obsolete()] thì sẽ thế này 
+![image](https://github.com/hoangphan636/elastic_Search-Kibana-Cache/assets/57717259/78ba05a5-ed60-4494-9642-e22a937fefea)# elastic_Search-Kibana-Cache
