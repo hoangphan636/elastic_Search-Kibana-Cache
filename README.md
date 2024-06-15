@@ -1,2 +1,18 @@
 # elastic_Search-Kibana-Cache
 elastic_Search&amp;Kibana&amp;Cache
+Password cho Elastic Search : 
+
+19wPoudqFTFvO+DBd1XM
+
+Câu lệnh reset Elastic Search :
+
+bin/elasticsearch-reset-password -u elastic
+
+Tạo mã Token mới cho Kibana:
+
+bin/elasticsearch-create-enrollment-token.bat -s kibana
+
+eyJ2ZXIiOiI4LjEzLjMiLCJhZHIiOlsiMTcyLjI4LjE5Mi4xOjkyMDAiXSwiZmdyIjoiYWRhZWQ3MzRlM2I4NjZlMjcyMGI2MDZiMmZhNDFlMWRhOGI2MWY0OTI3MTkyMWExMzVkNzljYjBlNDJkM2MwMiIsImtleSI6InhVYXFGSkFCcDdUQWs4TlhkUmhNOjgtbER1b2ZaUld1d1Mtd0wzU3hzaEEifQ==
+
+
+curl 127.0.0.1:9200
